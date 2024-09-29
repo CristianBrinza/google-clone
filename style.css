@@ -2,7 +2,7 @@
   --dark-background: #202124;
   --button-hover-border: #bdc1c6;
   --icon-color: #9aa0a6;
-  --input-border: #444746;
+  --input-border: #5f6368;
   --input-hover-background: #303134;
   --input-focus-border: #303134;
   --footer-background: #161616;
@@ -20,7 +20,7 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  padding: 165px;
+  padding: 200px;
   height: 100%;
   flex-direction: column;
 }
@@ -41,8 +41,8 @@ body {
   padding-bottom: 8px;
   width: max-content;
 
-  margin-right: 10px;
-  margin-left: 10px;
+  margin-right: 5px;
+  margin-left: 5px;
   margin-top: 14px;
   background: #2d2f31;
   border: 1px solid #2c2d31ff;
@@ -76,7 +76,7 @@ a:hover,
 footer > a {
   margin-left: 20px;
   padding: 10px;
-  font-size: 13px;
+  font-size: 14px;
   padding-bottom: 15px;
   float: left;
 }
@@ -102,7 +102,7 @@ footer {
 }
 
 .input-box {
-  padding: 14px;
+  padding: 15px;
   width: 100%;
   color: #dddddd;
   box-sizing: border-box;
