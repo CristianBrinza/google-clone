@@ -2,6 +2,8 @@
 
 This project is a simple clone of the Google search homepage, built using HTML, CSS, and SVG icons. It mimics the look and feel of Google's homepage while ensuring that the code is fully original and non-plagiarized.
 
+▶️ Demo - [https://cristianbrinza.github.io/google-clone/](https://cristianbrinza.github.io/google-clone/)
+
 ## Table of Contents
 
 - [Features](#features)
